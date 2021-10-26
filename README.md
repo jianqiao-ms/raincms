@@ -1,2 +1,2 @@
 # raincms
-CMS wirting using Python Tornado. Tornado caused rain. 
+CMS powerd by Python Tornado. Tornado caused rain. 
